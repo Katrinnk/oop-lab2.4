@@ -1,0 +1,4 @@
+﻿  UnitTest2.4.cpp
+Z:\university\ооп\програми\2.4\Vector.cpp(68): warning C4172: возвращение адреса локальной или временной переменной : x
+Z:\university\ооп\програми\2.4\Vector.cpp(75): warning C4172: возвращение адреса локальной или временной переменной
+  UnitTest2.4.vcxproj -> Z:\university\ооп\програми\2.4\Debug\UnitTest2.4.dll

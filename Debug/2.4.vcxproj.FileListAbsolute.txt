@@ -1,0 +1,2 @@
+Z:\university\ооп\програми\2.4\Debug\2.4.exe
+Z:\university\ооп\програми\2.4\Debug\2.4.pdb
